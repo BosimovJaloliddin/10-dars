@@ -52,7 +52,7 @@
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 10px;
-  height: 20vw;
+  height: 30vw;
   background-color: rgb(48, 123, 84);
   border: 15px solid rgb(48, 123, 84);
   margin-bottom: 10rem;
